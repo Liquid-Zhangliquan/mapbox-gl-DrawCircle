@@ -1,8 +1,8 @@
 {
-  "name": "mapbox-gl-draw-circle-test",
+  "name": "mapbox-gl-DrawCircle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iamanvesh.github.io/mapbox-gl-draw-circle-test",
+  "homepage": "https://Liquid-Zhangliquan.github.io/mapbox-gl-DrawCircle",
   "dependencies": {
     "@mapbox/mapbox-gl-draw": "^1.1.2",
     "@material-ui/core": "^4.3.0",
