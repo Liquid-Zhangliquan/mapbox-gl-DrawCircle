@@ -31,7 +31,7 @@ const styles = theme => ({
 
 const shapes = [
   { key: 1, value: 'Circle', mode: 'draw_circle' },
-  // { key: 2, value: 'Drag Circle', mode: 'drag_circle' },
+  { key: 2, value: 'Drag Circle', mode: 'drag_circle' },
   { key: 3, value: 'Polygon', mode: 'draw_polygon' },
   { key: 4, value: 'Line', mode: 'draw_line_string' },
 ];
